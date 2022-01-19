@@ -1,0 +1,16 @@
+C:\Users\Henrique\source\repos\Teste de desafio\Teste de desafio\obj\Debug\net5.0\Teste de desafio.csproj.AssemblyReference.cache
+C:\Users\Henrique\source\repos\Teste de desafio\Teste de desafio\obj\Debug\net5.0\Teste de desafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henrique\source\repos\Teste de desafio\Teste de desafio\obj\Debug\net5.0\Teste de desafio.AssemblyInfoInputs.cache
+C:\Users\Henrique\source\repos\Teste de desafio\Teste de desafio\obj\Debug\net5.0\Teste de desafio.AssemblyInfo.cs
+C:\Users\Henrique\source\repos\Teste de desafio\Teste de desafio\obj\Debug\net5.0\Teste de desafio.csproj.CoreCompileInputs.cache
+C:\Users\Henrique\source\repos\Teste de desafio\Teste de desafio\bin\Debug\net5.0\Teste de desafio.exe
+C:\Users\Henrique\source\repos\Teste de desafio\Teste de desafio\bin\Debug\net5.0\Teste de desafio.deps.json
+C:\Users\Henrique\source\repos\Teste de desafio\Teste de desafio\bin\Debug\net5.0\Teste de desafio.runtimeconfig.json
+C:\Users\Henrique\source\repos\Teste de desafio\Teste de desafio\bin\Debug\net5.0\Teste de desafio.runtimeconfig.dev.json
+C:\Users\Henrique\source\repos\Teste de desafio\Teste de desafio\bin\Debug\net5.0\Teste de desafio.dll
+C:\Users\Henrique\source\repos\Teste de desafio\Teste de desafio\bin\Debug\net5.0\ref\Teste de desafio.dll
+C:\Users\Henrique\source\repos\Teste de desafio\Teste de desafio\bin\Debug\net5.0\Teste de desafio.pdb
+C:\Users\Henrique\source\repos\Teste de desafio\Teste de desafio\obj\Debug\net5.0\Teste de desafio.dll
+C:\Users\Henrique\source\repos\Teste de desafio\Teste de desafio\obj\Debug\net5.0\ref\Teste de desafio.dll
+C:\Users\Henrique\source\repos\Teste de desafio\Teste de desafio\obj\Debug\net5.0\Teste de desafio.pdb
+C:\Users\Henrique\source\repos\Teste de desafio\Teste de desafio\obj\Debug\net5.0\Teste de desafio.genruntimeconfig.cache
